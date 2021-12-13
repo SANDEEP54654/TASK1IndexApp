@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <form method="post" asp-controller="Home" asp-action="Index">
+        <table class="table-form">
+            <tr>
+                <td class="label">Date : </td>
+                <td><input type="date" id="txtDate" name="dateTime" /></td>
+            </tr>
+            <tr>
+                <td class="label">Number : </td>
+                <td><input type="text" id="txtNumber" name="Number" /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Submit" /></td>
+            </tr>
+        </table>
+        <hr />
+        @if (ViewBag.Resullt != null)
+        {
+            <table class="table-grid">
+                <tr class="table__row grid-heading">
+                    <th>Date :</th>
+                    <th>Number : </th>
+                    <th>Result : </th>
+                </tr>
+                <tr class="table__row">
+                    <td>@ViewBag.Date</td>
+                    <td>@ViewBag.Number</td>
+                    <td>@ViewBag.Resullt</td>
+                </tr>
+                
+            </table>            
+        }
+    </form>
+</div>

@@ -1,0 +1,74 @@
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/appsettings.json
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.exe
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.deps.json
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.runtimeconfig.json
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.runtimeconfig.dev.json
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.dll
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/ref/IndexApp.dll
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.pdb
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.Views.dll
+C:/Users/prashant/New folder/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.Views.pdb
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.AssemblyReference.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.AssemblyInfoInputs.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.AssemblyInfo.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.CoreCompileInputs.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorAssemblyInfo.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorAssemblyInfo.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/scopedcss/bundle/IndexApp.styles.css
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/staticwebassets/IndexApp.StaticWebAssets.Manifest.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.TagHelpers.input.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.TagHelpers.output.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorCoreGenerate.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorTargetAssemblyInfo.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorTargetAssemblyInfo.cs
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.Views.pdb
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.dll
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/ref/IndexApp.dll
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.pdb
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.genruntimeconfig.cache
+C:/Users/prashant/New folder/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.CopyComplete
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/appsettings.Development.json
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/appsettings.json
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.deps.json
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.runtimeconfig.json
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.runtimeconfig.dev.json
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.dll
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/ref/IndexApp.dll
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.pdb
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.Views.dll
+/Users/admin/Downloads/IndexApp/IndexApp/bin/Debug/net5.0/IndexApp.Views.pdb
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.AssemblyReference.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.AssemblyInfoInputs.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.AssemblyInfo.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorAssemblyInfo.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorAssemblyInfo.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/staticwebassets/IndexApp.StaticWebAssets.Manifest.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/staticwebassets/IndexApp.StaticWebAssets.xml
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/scopedcss/bundle/IndexApp.styles.css
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.TagHelpers.input.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.TagHelpers.output.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorCoreGenerate.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorTargetAssemblyInfo.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.RazorTargetAssemblyInfo.cs
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.Views.pdb
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.dll
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/ref/IndexApp.dll
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.pdb
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.genruntimeconfig.cache
+/Users/admin/Downloads/IndexApp/IndexApp/obj/Debug/net5.0/IndexApp.csproj.CopyComplete
